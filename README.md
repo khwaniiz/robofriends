@@ -1,1 +1,1 @@
-RoboFrinds React App
+RoboFrinds React Project
